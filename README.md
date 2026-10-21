@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Keming Shen (沈可铭)
 
 <!--
 **Keming-Shen/keming-shen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Keming Shen / 沈可铭
 
 > Everything happens for a reason, and there is a story to everything.
 >
