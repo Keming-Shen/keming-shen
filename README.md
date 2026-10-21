@@ -15,20 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Everything happens for a reason, and there is a story to everything.
->
-> — Stephen Curry, in 14-15 NBA MVP Acceptance Speech
-
-
 I am a final-year M.Sc. student at the [Computer Vision Institute (CVI)](https://ai.szu.edu.cn/jgsz/yjs/jsjsjyjs.htm), Shenzhen University (SZU), advised by [Prof. Linlin Shen](https://ai.szu.edu.cn/info/1073/1623.htm). I received my B.Eng. in Software Engineering (Tencent Cloud Artificial Intelligence program) from College of Computer Science and Software Engineering (CSSE), SZU in 2024.
 
-My research interests include Computer Vision, 3D Human Motion Generation, Embodied AI, and Reinforcement Learning. I have submitted papers to CVPR, NeurIPS, ICLR, ICCV, and AAAI, with two papers accepted for publication at AAAI 2026 and CVPR 2025. I also served as a reviewer for ICCV 2025 and AAAI 2026. I am seeking Ph.D. opportunities starting in Fall 2027 and research internships in human modeling, embodied AI, or AIGC, and research collaborations are welcome.
+- 🔭 I’m currently working on **Computer Vision, 3D Human Motion Generation, Embodied AI, and Reinforcement Learning**.
+- 📰 I have submitted papers to **CVPR, NeurIPS, ICLR, ICCV, and AAAI**, with two papers accepted for publication at **AAAI 2026** and **CVPR 2025**.
+- 🤔 I’m looking for **Ph.D.** opportunities starting in **Fall 2027** and research internships in human modeling, embodied AI, or AIGC, and research collaborations are welcome.
+- 💬 Please contact me by [email](mailto:2400101005@mails.szu.edu.cn) or via WeChat: `skm1192405754` for inquiries.
+- 😄 I excel at **drawing**, **playing the electronic piano**, and **table tennis**. I'm also keen on swimming, photography, cooking, and reading. 
+- ⚡ Fun fact: I identify most closely with the [**ENFJ (Protagonist Personality)**](https://www.16personalities.com/enfj-personality) type. I have a knack for staying hopeful even in tough times, always reminding myself of what I have to be grateful for. I strive to be genuine, caring, and someone who walks the walk. 
 
-For inquiries, please contact me by [email](mailto:2400101005@mails.szu.edu.cn) or via WeChat: `skm1192405754`.
-
-I excel at drawing, playing the electronic piano, and table tennis. I'm also keen on swimming, photography, cooking, and reading. I received the Bronze Prize in the 2016 "Tianyan" International Drawing Competition and hold a Level 10 certificate in electronic piano. I identify most closely with the [ENFJ (Protagonist Personality)](https://www.16personalities.com/enfj-personality) type. I have a knack for staying hopeful even in tough times, always reminding myself of what I have to be grateful for. I strive to be genuine, caring, and someone who walks the walk. Truly, nothing fulfills me more than inspiring others to do what’s right.
-
-For more info, please visit my blog: [Keming's Eutopia](https://keming-shen.github.io/).
+For more info, please visit my blog: [**Keming's Eutopia**](https://keming-shen.github.io/).
 
 <details>
 <summary><b>中文简介</b></summary>
