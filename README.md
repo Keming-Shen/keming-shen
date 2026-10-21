@@ -26,11 +26,9 @@ My research interests include Computer Vision, 3D Human Motion Generation, Embod
 
 For inquiries, please contact me by [email](mailto:2400101005@mails.szu.edu.cn) or via WeChat: `skm1192405754`.
 
-I excel at drawing, playing the electronic piano, and table tennis. I'm also keen on swimming, photography, cooking, and reading. I received the Bronze Prize in the 2016 "Tianyan" International Drawing Competition and hold a Level 10 certificate in electronic piano. I identify most closely with the [ENFJ (Protagonist Personality)](https://www.16personalities.com/enfj-personality) type. I have a knack for staying hopeful even in tough times, always reminding myself of what I have to be grateful for.
+I excel at drawing, playing the electronic piano, and table tennis. I'm also keen on swimming, photography, cooking, and reading. I received the Bronze Prize in the 2016 "Tianyan" International Drawing Competition and hold a Level 10 certificate in electronic piano. I identify most closely with the [ENFJ (Protagonist Personality)](https://www.16personalities.com/enfj-personality) type. I have a knack for staying hopeful even in tough times, always reminding myself of what I have to be grateful for. I strive to be genuine, caring, and someone who walks the walk. Truly, nothing fulfills me more than inspiring others to do what’s right.
 
-I strive to be genuine, caring, and someone who walks the walk. Truly, nothing fulfills me more than inspiring others to do what’s right.
-
-I share technical notes and reflections on everyday life on [Keming's Eutopia](https://keming-shen.github.io/).
+For more info, please visit my blog: [Keming's Eutopia](https://keming-shen.github.io/).
 
 <details>
 <summary><b>中文简介</b></summary>
